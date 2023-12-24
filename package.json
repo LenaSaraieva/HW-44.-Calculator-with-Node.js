@@ -1,0 +1,20 @@
+{
+  "name": "hw-44.-calculator-with-node",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LenaSaraieva/HW-44.-Calculator-with-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LenaSaraieva/HW-44.-Calculator-with-Node.js/issues"
+  },
+  "homepage": "https://github.com/LenaSaraieva/HW-44.-Calculator-with-Node.js#readme"
+}
